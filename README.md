@@ -63,5 +63,9 @@ password: userpass
 
 Please log any issues found in the repository 
 
+### References 
+www.freshdesignweb.com
+Fashion Responsive Slider
+
 ### License
 College Notes Gallery is released under the MIT License
