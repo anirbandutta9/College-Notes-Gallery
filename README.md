@@ -15,7 +15,7 @@ College-Notes-Gallery Admin Panel ->
 
 
 ### Full Demo
-[College Notes Gallery](http://www.youtube.com/watch?v=PhhAtY8i3hQ)
+[College Notes Gallery](https://www.youtube.com/watch?v=oJ7rNVoCPG0&t)
 
 ### Requirements 
 
