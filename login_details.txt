@@ -1,0 +1,13 @@
+Login details for College Notes Gallery:
+
+
+Admin Login ---->
+
+username: root
+password: adminroot
+
+
+User Login ----->
+
+username:  user
+password:  userpass
