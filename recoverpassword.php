@@ -40,7 +40,7 @@ $mail->addAddress($email);
 $mail->isHTML(true);  // Set email format to HTML
 
 $bodyContent = '<h1>Recover Password Link: </h1>';
-$bodyContent .= 'http://' . $dir . 'varifytoken.php?token='.$token;
+$bodyContent .= 'http://' . $dir . 'verifytoken.php?token='.$token;
 
 $mail->Subject = 'Email from collegenotesgallery ';
 $mail->Body    = $bodyContent;
