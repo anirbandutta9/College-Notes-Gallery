@@ -6,6 +6,7 @@ include('connection.php');
 <html>
 <head>
 <title>College-Notes-Gallery</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
  <script src="dashboard/js/tinymce/tinymce.min.js"></script>
     <script src="dashboard/js/tinymce/script.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
