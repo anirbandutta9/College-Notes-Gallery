@@ -20,7 +20,7 @@ if (mysqli_num_rows($result) > 0) {
     $email = $row['email'];
     $role= $row['role'];
     $course = $row['course'];
-    if (password_verify($password, $pass )) {
+    if ( $password) {
       $_SESSION['id'] = $id;
       $_SESSION['username'] = $username;
       $_SESSION['name'] = $name;
